@@ -3,3 +3,4 @@
 # LogCode: https://os4diss.vlsm.org/ETC/LogCodes.txt
 ZCZC W00 10 L01 Scele related
 ZCZC W00 10 L03 GitHub related
+ZCZC W00 15 L06 Reading week 00 slides
