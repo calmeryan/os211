@@ -19,3 +19,5 @@ ZCZC W01 15 L01 Checking Scele
 ZCZC W01 120 L11 Assignment #1
 ZCZC W01 20 L06 Searching for references
 ZCZC W01 180 L15 Assignment #5
+ZCZC W01 30 L05 GSGS searching for interesting links
+ZCZC W01 220 L17 Assignment #7
