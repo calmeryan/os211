@@ -34,3 +34,6 @@ ZCZC W02 10 L16 Assignment #6 Export Public Key
 ZCZC W02 15 L17 Assignment #7 Review and pick 3 out of 10 neighbors
 ZCZC W02 60 L18 Assignment #8 TOP 10 List
 ZCZC W02 10 L19 Assignment #9 Bash script
+ZCZC W02 10 L20 Assignment #10 Update mylog.txt
+ZCZC W02 10 L21 Assignment #11 Make SHA256SUM and sign it
+
