@@ -56,4 +56,10 @@ ZCZC W05 25 L12 Assignment #2 Review Last Week TOP 10 List
 ZCZC W05 120 L13 Assignment #3 TOP 10 List
 ZCZC W05 120 L14 Assignment #4 myW05.tar.bz2.asc, how low can you go
 ZCZC W05 15 L15 Assignment #5 Update mylog.txt
-ZCZC W05 15 L16 Assignment #6 Make SHA256SUM and sign it 
+ZCZC W05 15 L16 Assignment #6 Make SHA256SUM and sign it
+ZCZC W06 90 L02 ZOOM Meeting
+ZCZC W06 25 L12 Assignment #2 Review Last Week TOP 10 List
+ZCZC W06 120 L13 Assignment #3 TOP 10 List
+ZCZC W06 50 L14 Assignment #4 Week 06
+ZCZC W06 15 L15 Assignment #5 Update mylog.txt
+ZCZC W06 15 L16 Assignment #6 Make SHA256SUM and sign it 
