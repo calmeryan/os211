@@ -14,4 +14,7 @@ ZCZC W04 nfrobby
 ZCZC W04 KevinAfiza
 ZCZC W05 dirtboll
 ZCZC W05 cornelita
-ZCZC W05 ddelvo  
+ZCZC W05 ddelvo
+ZCZC W06 cornelita
+ZCZC W06 dnswd
+ZCZC W06 ekojsalim  
