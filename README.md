@@ -10,3 +10,4 @@ Operating Systems 2021-1
 * [Week 06](https://calmeryan.github.io/os211/W06/)
 * [Week 07](https://calmeryan.github.io/os211/W07/)
 * [Week 08](https://calmeryan.github.io/os211/W08/)
+* [Week 09](https://calmeryan.github.io/os211/W09/)
