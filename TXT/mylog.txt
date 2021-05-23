@@ -68,4 +68,16 @@ ZCZC W07 30 L12 Assignment #2 Review Last Week TOP 10 List
 ZCZC W07 125 L13 Assignment #3 TOP 10 List
 ZCZC W07 75 L14 Assignment #4 Week 07
 ZCZC W07 15 L15 Assignment #5 Update mylog.txt
-ZCZC W07 15 L16 Assignment #6 Make SHA256SUM and sign it 
+ZCZC W07 15 L16 Assignment #6 Make SHA256SUM and sign it
+ZCZC W08 90 L02 ZOOM Meeting
+ZCZC W08 30 L12 Assignment #2 Review Last Week TOP 10 List
+ZCZC W08 125 L13 Assignment #3 TOP 10 List
+ZCZC W08 75 L14 Assignment #4 Week 08
+ZCZC W08 15 L15 Assignment #5 Update mylog.txt
+ZCZC W08 15 L16 Assignment #6 Make SHA256SUM and sign it
+ZCZC W09 105 L02 ZOOM Meeting
+ZCZC W09 40 L12 Assignment #2 Review Last Week TOP 10 List
+ZCZC W09 135 L13 Assignment #3 TOP 10 List
+ZCZC W09 85 L14 Assignment #4 Week 09
+ZCZC W09 25 L15 Assignment #5 Update mylog.txt
+ZCZC W09 25 L16 Assignment #6 Make SHA256SUM and sign it 
